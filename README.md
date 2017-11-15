@@ -9,7 +9,7 @@ It have practical projects in the field of AI using modern libraries and framewo
 It is Jupyter notebook that analyze dog images and predict the breed with different python code methods and analyze the different between each method.<br/>
 2. AIND2-RNN  Project(Natural Language Processing): <br/>
 Time Series Prediction and Text Generation.
-3. AIND-NLP-Sentiment Lab: <br/>
+3. AIND2-NLP-Sentiment Lab: <br/>
 Sentiment analysis for IMDB user reviews with different models and comparison.<br/>
 4. [Machine Translation Project](https://github.com/Barqawiz/aind2-nlp-capstone-translation) (*it is in stand alone repository*) :<br/>
 Capstone project of the course with different NLP models and advanced techniques.<br/>
