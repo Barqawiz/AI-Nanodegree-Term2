@@ -12,4 +12,5 @@ Time Series Prediction and Text Generation.
 3. AIND-NLP-Sentiment Lab: <br/>
 Sentiment analysis for IMDB user reviews with different models and comparison.<br/>
 4. [Machine Translation Project:](https://github.com/Barqawiz/aind2-nlp-capstone-translation) <br/>
-Capstone project of the course with different NLP models and advanced techniques.(*it is in stand alone repository*)
+Capstone project of the course with different NLP models and advanced techniques.(*it is in stand alone repository*)<br/>
+Reviewer feedback on Capstone project: I  enjoyed seeing your predicted translations which your notebook printed in the last step. Wow! Your model correctly predicts both sentences!
